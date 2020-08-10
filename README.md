@@ -1,5 +1,6 @@
 # springboot-demo-jpa-mysql
-springboot-demo-jpa-mysql
+springboot-demo-jpa-mysql  
+框架在链接DB方面的优势，在于不需要直接到数据中建表，项目启动后，表就会在数据库中自动创建。  
 1.项目是通过maven方式构建的   
 2.项目启动类  
 SpringbootDemoJpaMysqlApplication.java  
